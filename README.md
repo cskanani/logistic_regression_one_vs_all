@@ -1,2 +1,2 @@
 # logistic_regression_one_vs_all
-Logistic regression for multiple classes 
+Logistic regression for multi-class classification
